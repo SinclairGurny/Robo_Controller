@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+# create directories for video and image capture
+# create directories for facial recognition database
+mkdir -p Screenshots Videos Faces/Known Faces/Unknown
+# run the program
+sudo python3 controller.py
