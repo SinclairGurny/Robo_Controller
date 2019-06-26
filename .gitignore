@@ -6,3 +6,6 @@ Videos/
 
 # Face Folders
 Faces/
+
+# Calibration Files
+*.yaml
